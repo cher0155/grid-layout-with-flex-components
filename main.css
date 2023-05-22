@@ -9,7 +9,7 @@ body {
     grid-template-columns: repeat(2, 1fr);
     grid-template-areas:
     "emoji emoji"
-    "emoji emoji"
+    "emoji emoji";
   }
   
   .emoji {
@@ -37,7 +37,6 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    justify-content: space-between;
     order: 4;
   }
   
