@@ -17,6 +17,7 @@ body {
     padding: 1rem;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
   }
   
   .emoji h2 {
@@ -34,5 +35,5 @@ body {
   
   .icon {
     font-size: 4rem;
-    
+
   }
